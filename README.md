@@ -13,4 +13,8 @@ Testing markdown
 
 ### I am posting a link here
 [Markdownguide](https://www.markdownguide.org/)
+#### sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
 
