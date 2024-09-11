@@ -5,5 +5,5 @@ Testing markdown
 > What hereby follow is a very good blockquote.
 
 ### I am posting a link here
-[Markdownguide] (https://www.markdownguide.org/)
+[Markdownguide](https://www.markdownguide.org/)
 
