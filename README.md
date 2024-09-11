@@ -39,7 +39,7 @@ Testing markdown
 [Markdownguide](https://www.markdownguide.org/)
 
 #### sequenceDiagram
-    ```mermaid
+ ```mermaid
 Alice->>John: Hello John, how are you?
 John-->>Alice: Great!
 Alice-)John: See you later!
