@@ -33,6 +33,7 @@ Testing markdown
         +run()
     }
 
+
 ### I am posting a link here
 [Markdownguide](https://www.markdownguide.org/)
 
@@ -46,3 +47,9 @@ Testing markdown
 
 ### Very funny emoji :tent:
 We love emojis done we :joy:
+
+### Table 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
