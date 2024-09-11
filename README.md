@@ -10,6 +10,7 @@ Testing markdown
 - Third item
 - Fourth item
 ##### classDiagram
+```mermaid
     note "From Duck till Zebra"
     Animal <|-- Duck
     note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
@@ -32,7 +33,7 @@ Testing markdown
         +bool is_wild
         +run()
     }
-
+```
 
 ### I am posting a link here
 [Markdownguide](https://www.markdownguide.org/)
