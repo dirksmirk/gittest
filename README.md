@@ -37,6 +37,7 @@ Testing markdown
 
 ### I am posting a link here
 [Markdownguide](https://www.markdownguide.org/)
+
 #### sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
@@ -44,6 +45,10 @@ Testing markdown
 
 ### The below word is very important
 <mark>this word</mark> is very important as you can see.
+
+### Very funny emoji :tent:
+We love emojis done we :joy:
+
 ### Table 
 | Syntax      | Description |
 | ----------- | ----------- |
