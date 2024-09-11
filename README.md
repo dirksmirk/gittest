@@ -15,4 +15,4 @@ Testing markdown
 [Markdownguide](https://www.markdownguide.org/)
 
 ### The below word is very important
-==this word== is very important as you can see.
+<mark>this word</mark> is very important as you can see.
