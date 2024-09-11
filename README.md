@@ -18,3 +18,5 @@ Testing markdown
     John-->>Alice: Great!
     Alice-)John: See you later!
 
+### The below word is very important
+<mark>this word</mark> is very important as you can see.
