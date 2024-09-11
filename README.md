@@ -14,3 +14,5 @@ Testing markdown
 ### I am posting a link here
 [Markdownguide](https://www.markdownguide.org/)
 
+### The below word is very important
+==THIS WORD== is very important as you can see.§
