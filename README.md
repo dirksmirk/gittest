@@ -40,11 +40,9 @@ Testing markdown
 
 #### sequenceDiagram
  ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
 ```
 
 ### The below word is very important
